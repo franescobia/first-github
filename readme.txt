@@ -1,0 +1,1 @@
+This is my first git repository. I'm larning the basics of git and then Github.
